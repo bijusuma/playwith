@@ -1,6 +1,6 @@
 package com.test.git;
 
-public class TestClass {
+public class TestClass1 {
 
 	/**
 	 * @param args
@@ -8,7 +8,7 @@ public class TestClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-			System.out.println("dev dbranch");
+			System.out.println("dev branch");
 	}
 
 }
